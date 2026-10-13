@@ -1,0 +1,25 @@
+{
+  "model": 1,
+  "packVersion": 1,
+  "pfps": {
+    "botnet": {
+      "image": "image data or link here idk yet",
+      "thumbnail": "image data or link here idk yet"
+    }
+  },
+  "items": {
+    "fw": {
+      "image": "image data or link here idk yet",
+      "thumbnail": "image data or link here idk yet",
+      "descriptions": {
+        "botnet": "edited description here"
+      }
+    }
+  },
+  "profiles": {
+    "botnet": {
+      "name": "NPC name here",
+      "description": "NPC description here"
+    }
+  }
+}
