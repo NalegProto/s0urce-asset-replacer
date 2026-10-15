@@ -1,0 +1,24 @@
+{
+  "model": 1,
+  "packVersion": 1,
+  "itemImages": {
+    "botnet": {
+      "thumbnail": "image data or link here idk yet",
+      "full"
+    }
+  },
+  "itemDescriptions": {
+    "botnet": "Botnet PFP description here",
+    "s1lk A1-125": "s1lk's firewall description here"
+  },
+  "itemNames": {
+    "botnet": "Botnet PFP name here",
+    "s1lk A1-125": "s1lk's firewall name here"
+  },
+  "profiles": {
+    "botnet": {
+      "name": "NPC name here",
+      "description": "NPC description here"
+    }
+  }
+}
