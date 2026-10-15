@@ -1,6 +1,9 @@
 # Resource pack list
 If you want to install a resource packs I've either made or verified, or want to create your own, this is where you'll have all of that
 
+## Warning
+Since the script didn't go really far yet, I would not recommend starting to make your own resource packs now. The structure might still go through radical changes before there's a true model 1.
+
 ## Installation
 Will have to wait until the userscript is more advanced.
 
