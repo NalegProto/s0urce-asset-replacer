@@ -11,8 +11,15 @@ None, for now
 This will have to wait until the script is more advanced, but there can still be docs on the json :
 - `model` (number) : The loader's version this pack has been made for
 - `packVersion` (number) : The resource pack's version
-- `pfps` (dict) : A dict of all PFPs.
-  - `[pfp name]` (dict) : A dict for the two definitions of a PFP.
-    - `image` (string) : The hover image of the PFP, a 400x400 file.
+- `itemImages` (dict) : A dict containing all items with their images
+  - `[item name]` (dict) : A dict for the two possible images of an item
     - `thumbnail` (string) : A 100x100 image used in Inventory, Computer, Target, and others
-- `items` (dict) : A dict of all items.
+    - `full` (string) : A 400x400 image used in the item description popup
+- `itemDescriptions` (dict) : A dict containing all items and their description
+  - `[item name]` (string) : The description of that item
+- `itemNames` (dict) : A dict containing all items and their names
+  - `[item name]` (string) : The name of that item
+- `profiles` (dict) : NPC names and their profiles
+  - `[npc name]` (dict) : A dict containing this NPC's name and description
+    - `name` (string) : This NPC's name
+    - `description` (string) : This NPC's description
