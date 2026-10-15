@@ -24,9 +24,9 @@ Your browser might ask you to allow pasting first, follow its instructions to do
 - Create your own resource packs
 - Allow multiple resource packs at the same time
 - Replace texts with custom text
-- Replace specific users' PFPs
+- Replace specific users' PFPs (only in Target, Target List, Terminal, Friends)
 - Resource pack maker / Images to resource pack converter
 
 ## Resource packs Soon™
 - Floof s0urce : Of course the furry would make a furry resource pack. Changes PFPs to furry art, all credits to the original artists !
-- Users' custom PFPs : An experimental pack giving some s0urce players their own PFPs. Does not replace assets, as it bases itself on usernames. This would only 
+- Users' custom PFPs : An experimental pack giving some s0urce players their own PFPs. Does not replace assets, as it bases itself on usernames.
