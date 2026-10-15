@@ -1,5 +1,6 @@
 # s0urce.io Asset Replacer
-A userscript that's not d0urce ????? no way !!!!11!
+A userscript that's not d0urce ????? no way !!!!11!  
+This was supposed to be part of [nalegified-d0urce](https://github.com/NalegProto/nalegified-d0urce) a while back, but since this is the only idea I have, better make it into its own script instead of a fork of a fork.
 
 ## Current features
 - none
@@ -23,3 +24,9 @@ Your browser might ask you to allow pasting first, follow its instructions to do
 - Create your own resource packs
 - Allow multiple resource packs at the same time
 - Replace texts with custom text
+- Replace specific users' PFPs
+- Resource pack maker / Images to resource pack converter
+
+## Resource packs Soon™
+- Floof s0urce : Of course the furry would make a furry resource pack. Changes PFPs to furry art, all credits to the original artists !
+- Users' custom PFPs : An experimental pack giving some s0urce players their own PFPs. Does not replace assets, as it bases itself on usernames. This would only 
