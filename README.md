@@ -7,11 +7,11 @@ This was supposed to be part of [nalegified-d0urce](https://github.com/NalegProt
 
 ## Installation
 ### 1. With TemperMonkey/ViolentMonkey/Other userscript loaders
-- Click the `SAR.js` file, then RAW : the extension should give you a prompt to install the script.
+- Click the `SAR.user.js` file, then RAW : the extension should give you a prompt to install the script.
 - If it doesn't, create a new script in the extension, and copy-paste the script inside.
 
 ### 2. Without a userscript loader
-- Click the `SAR.js` file, then RAW.
+- Click the `SAR.user.js` file, then RAW.
 - Copy the whole page
 - On s0urce, press CTRL+SHIFT+I to open developer tools
 - Go inside the console
