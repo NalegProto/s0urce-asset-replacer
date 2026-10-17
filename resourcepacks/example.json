@@ -1,16 +1,16 @@
 {
   "model": 1,
   "packVersion": 1,
-  "items": {
+  "itemImages": {
     "botnet": {
-      "images": {
-        "thumbnail": "image data or link here",
-        "full": "image data or link here"
-      },
-      "name": "item name",
-      "description": "item description"
+      "thumbnail": "image data or link here",
+      "full": "image data or link here"
     }
   },
+  "itemDescs": {
+    "name": "item name",
+    "description": "item description"
+  }
   "profiles": {
     "botnet": {
       "name": "NPC name here",
